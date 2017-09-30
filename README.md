@@ -30,7 +30,7 @@ on ethereum called **keli**.
 
 **bah blah .. the description**
 * creditor is any crediting organisation. how to recognise one is whole different story of blockchain to discuss foor later.
-* Aspirant is the guy, what we call the protagonist of this story.
+* Aspirant is the guy, what we call the protagonist of this story. .
 * milstone is what he is after, and can only bee awarded by this so called creditor.
 
 I ended with this [Taylor Love Story](https://www.youtube.com/watch?v=8xg3vE8Ie_E)
