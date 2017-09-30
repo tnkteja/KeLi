@@ -21,9 +21,15 @@ I should first the charm the Viper :saxophone::man_with_turban:. That is write t
 
 this sounds good now. ![Taylor Swift - You Belong With Me](https://www.youtube.com/watch?v=VuNIsY6JdUw)
 ## data model
-h|h
-:-:|:-:
-h|h
+Creditor|Aspirant|Milestone|
+:-:|:-:|:-:
+Just an _id_ for now|Just an _id_ for now .. yep same|milestone _name_|
+
+So its going to be simple **creditor** creates a record of **milestone** in the **aspirants** life using a blockchain record
+on ethereum called **keli**.
+
+I ended with this [Taylor Love Story](https://www.youtube.com/watch?v=8xg3vE8Ie_E)
+
 And look at the project wiki for the solution model.
 
 Annd this is the development workspace https://ide.c9.io/ntadiko/keli. Trust me it will be boring. :sleeping:
