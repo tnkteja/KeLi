@@ -15,11 +15,11 @@ I am  going to use ethereum based blockchain application platform. Because daa! 
 
 And in the meantime 
 
-![Kate Perry - unconditionally](https://www.youtube.com/watch?v=XjwZAa2EjKA)
+[Kate Perry - unconditionally](https://www.youtube.com/watch?v=XjwZAa2EjKA)
 
 I should first the charm the Viper :saxophone::man_with_turban:. That is write the smart contracts.
 
-this sounds good now. ![Taylor Swift - You Belong With Me](https://www.youtube.com/watch?v=VuNIsY6JdUw)
+this sounds good now. [Taylor Swift - You Belong With Me](https://www.youtube.com/watch?v=VuNIsY6JdUw)
 ## data model
 Creditor|Aspirant|Milestone|
 :-:|:-:|:-:
