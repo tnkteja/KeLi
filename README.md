@@ -7,6 +7,8 @@ And in the meantime
 
 ![Kate Perry - unconditionally](https://www.youtube.com/watch?v=XjwZAa2EjKA)
 
+I should first the charm the Serpent :saxophone::man_with_turban:. That is write the smart contracts.
+
 And look at the project wiki for the solution model.
 
 ## References
