@@ -38,7 +38,7 @@ I ended with this [Taylor Love Story](https://www.youtube.com/watch?v=8xg3vE8Ie_
 And look at the project wiki for the solution model.
 
 ## Goals 
-by the end of this prrojecct create a poc and declare myself as officially Taylor swift Fan [Taylor Swift - Mean](https://www.youtube.com/watch?v=yCMqcFAigRg)
+by the end of this prrojecct create a poc and declare myself as officially Taylor swift Fan [Taylor Swift - Mean](https://www.youtube.com/watch?v=jYa1eI1hpDE)
 
 
 Annd this is the development workspace https://ide.c9.io/ntadiko/keli. Trust me it will be boring. :sleeping:
