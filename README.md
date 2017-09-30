@@ -28,6 +28,11 @@ Just an _id_ for now|Just an _id_ for now .. yep same|milestone _name_|
 So its going to be simple **creditor** creates a record of **milestone** in the **aspirants** life using a blockchain record
 on ethereum called **keli**.
 
+**bah blah .. the description**
+* creditor is any crediting organisation. how to recognise one is whole different story of blockchain to discuss foor later.
+* Aspirant is the guy, what we call the protagonist of this story.
+* milstone is what he is after, and can only bee awarded by this so called creditor.
+
 I ended with this [Taylor Love Story](https://www.youtube.com/watch?v=8xg3vE8Ie_E)
 
 And look at the project wiki for the solution model.
