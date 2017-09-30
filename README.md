@@ -19,6 +19,11 @@ And in the meantime
 
 I should first the charm the Viper :saxophone::man_with_turban:. That is write the smart contracts.
 
+this sounds good now. ![Taylor Swift - You Belong With Me](https://www.youtube.com/watch?v=VuNIsY6JdUw)
+## data model
+h|h
+:-:|:-:
+h|h
 And look at the project wiki for the solution model.
 
 Annd this is the development workspace https://ide.c9.io/ntadiko/keli. Trust me it will be boring. :sleeping:
