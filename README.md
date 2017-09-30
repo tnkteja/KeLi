@@ -39,5 +39,7 @@ And look at the project wiki for the solution model.
 
 Annd this is the development workspace https://ide.c9.io/ntadiko/keli. Trust me it will be boring. :sleeping:
 
+
+This song summarises why i should give the references. [Taylor Swift - Ours](https://www.youtube.com/watch?v=LZ34LlaIk88)
 ## References
 1. _https://www.coindesk.com/ibm-vs-microsoft-two-tech-giants-two-blockchain-visions/_
